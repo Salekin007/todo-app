@@ -1,8 +1,8 @@
 package app.todo.controller;
 
 import app.todo.dto.ApiError;
-import app.todo.dto.TaskRequest;
-import app.todo.dto.TodoRequest;
+import app.todo.dto.request.TaskRequest;
+import app.todo.dto.request.TodoRequest;
 import app.todo.dto.request.TaskBulkUpdateRequest;
 import app.todo.dto.request.TodoUpdateRequest;
 import app.todo.dto.response.TaskResponse;
